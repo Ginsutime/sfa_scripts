@@ -3,7 +3,7 @@ sfa_scripts
 **Name:** Brett Austin  
   **Directory Structure:** `sfa_scripts/src/smartsave.py` contains the entirety of the code sample\
   **Explanation of Code Sample:** A smart save tool for use in Maya. Creates a standardized file naming convention as well as a navigable GUI.
-  - A) Allows user to open the GUI that is implemented with PySide 2 by calling these commands in the Maya Script Editor:
+  - A) `smartsave.py` needs to be in your `\Documents\maya\scripts` folder for this to work. Allows user to open the GUI that is implemented with PySide 2 by calling these commands in the Maya Script Editor:
   ```
   import smartsave
   reload (smartsave)
