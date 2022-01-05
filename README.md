@@ -31,7 +31,7 @@ sfa_scripts
   - J) Save Increment button allows user to:
       - Saves current scene to the next available version in the folder path
       - GUI updates to reflect the new version after the save occurs
-      - Increments to the largest version even if there are skipped versions **(Ex: _v003 and _v006 means the next would be _v007)**
+      - Increments to the highest version even if there are skipped versions **(Ex: _v003 and _v006 means the next would be _v007)**
       
 **Date when Code was Written (Excluding Updates to Readme):**\
 First Commit: February 27, 2021\
